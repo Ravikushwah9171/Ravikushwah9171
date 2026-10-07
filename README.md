@@ -4,7 +4,7 @@
 
 I am Ravikushwah9171 
 Frontend Developer -- HTML | CSS | Java Script | J Query | Bootstrap ---
-🎓 First Year Student  
+🎓 Second Year Student  
 💻 Learning Programming  
 🚀 Know C and C++  
 
